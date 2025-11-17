@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm JD
+
 > Thank you for visiting my GitHub.
 
-웹 개발을 주로 했었고, 관심있는 것이 생기면 배우거나 작업하거나 알아가는 것을 좋아합니다.
-- 주요 기술: TypeScript, React
+### 6-Year Frontend Engineer | System Transformer | Problem Solver
 
-## JD
+**Motto:** *Just do it* - 완벽할 때 시작은 없다
 
-### Motto
-- Just do it
-- 10분이라도 꾸준히 하자. 완벽할때 시작은 없다.
-- 나를 알아가는 시간을 갖자
+> "같은 코드도 관점에 따라 전혀 다른 가능성이 보인다"  
+> "The same code reveals entirely different possibilities depending on perspective"
 
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDit-do&theme=shadow_blue&show_icons=true)
+## 💻 Tech Stack
 
+**Frontend:** React • TypeScript • Next.js • Redux • Recoil  
+**Backend:** Spring Boot • Node.js • Django • MySQL  
+**DevOps:** Docker • GitHub Actions • AWS (EC2, CloudFront, S3)  
+**Tools:** Git • Jira • Confluence • Figma
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDdo-it&show_icons=true&theme=radical)
+
+---
+
+<div align="center">
+  <i>💡 Turning constraints into possibilities, one line of code at a time</i>
+</div>
